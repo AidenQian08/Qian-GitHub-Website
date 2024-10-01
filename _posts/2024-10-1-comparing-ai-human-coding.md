@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Underlying Differences Between AI and Human Coding"
-author: "Your Name"
+author: "Aiden Qian"
 ---
 
 ## The Underlying Differences Between AI and Human Coding
@@ -46,4 +46,4 @@ AI solutions display lower standard deviation in metrics like LOC and functions,
 
 Human solutions demonstrate more flexibility and readability due to better use of modularity, comments, and variable types. AI-generated code, while consistent and concise, may lack adaptability. Future research could further investigate these differences, particularly across various programming languages.
 
-[Read the full article here](https://arxiv.org/pdf/2208.08603)
+[Read the full article here](file:///Users/aidenqian/Downloads/Template%20for%20AI%20Blog%20(2).pdf)
