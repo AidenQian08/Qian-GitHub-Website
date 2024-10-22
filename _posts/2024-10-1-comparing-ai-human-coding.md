@@ -29,10 +29,6 @@ Metrics analyzed include cyclomatic complexity, LOC, number of functions, commen
 #### LOC/SLOC Percentage
 Human solutions tend to have more blank lines and comments, which results in a lower SLOC/LOC ratio compared to AI-generated solutions.
 
-
-![SLOCvsLOC](https://drive.google.com/file/d/1vUOPUV_kKJg73rYgCcIBScCxZ3WwcIcw/view?usp=drive_link){: .mx-auto.d-block :}
-
-
 #### Consistency in AI Solutions
 AI solutions display lower standard deviation in metrics like LOC and functions, suggesting a more uniform structure compared to human solutions, which vary more widely.
 
