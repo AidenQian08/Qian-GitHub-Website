@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Underlying Differences Between AI and Human Coding"
+subtitle: "Conducted at Washington University in St. Louis"
 tags: ["AI", "statistics"]
 author: "Aiden Qian"
-share-description: "Conducted at Washington University in St. Louis"
 ---
 
 ## The Underlying Differences Between AI and Human Coding
