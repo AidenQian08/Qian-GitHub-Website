@@ -46,4 +46,4 @@ AI solutions display lower standard deviation in metrics like LOC and functions,
 
 Human solutions demonstrate more flexibility and readability due to better use of modularity, comments, and variable types. AI-generated code, while consistent and concise, may lack adaptability. Future research could further investigate these differences, particularly across various programming languages.
 
-[Read the full article here](https://drive.google.com/file/d/1sWvj2PBj9P7CnXeNLwEYAvdDrZBYg6Wl/view?usp=sharing)
+[Read the full article here](https://drive.google.com/file/d/1PGR2xiEhA0GAFHtne27bZnDAa1ohD4vb/view?usp=sharing)
